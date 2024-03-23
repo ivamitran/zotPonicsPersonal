@@ -1,1 +1,13 @@
 .DS_Store
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+.vscode/*
+*.DS_STORE
+*.o
+*.zip
+outDebug
+*.exe
+
