@@ -7,7 +7,8 @@
 .vscode/*
 *.DS_STORE
 *.o
+*.toc
 *.zip
 outDebug
 *.exe
-
+*.out
